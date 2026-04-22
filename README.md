@@ -51,7 +51,7 @@ This project uses React to:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/react-background-changer.git
+git clone https://github.com/SwarajThakre/Background-Changer-React.git
 ```
 
 ### 2. Install dependencies
